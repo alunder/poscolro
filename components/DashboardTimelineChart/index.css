@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #f0f0f0;
+}
+
+.app {
+  font-family: sans-serif;
+  padding-top: 16px;
+  padding-bottom: 20px;
+}
+
+@media screen and (min-width: 1000px) {
+  .app {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 32px;
+}
+span.rt-element__title {
+  display: none;
+}
+.rt-element {
+  position: relative;
+  height: 30px;
+  line-height: 30px;
+  background: #06f;
+  color: #fff;
+  text-align: center;
+  border-radius: 0px!important;
+}
+.rt-track__element {
+  position: absolute;
+  height: 36px;
+  top: 5px;
+}
+.rt-track__elements {
+  position: relative;
+  height: 43px;
+  border-bottom: 1px solid #eee;
+}
+.rt-layout__main {
+  display: inline-block;
+  width: calc(100% - 144px);
+  vertical-align: top;
+}
+.rt-layout__side {
+  position: relative;
+  z-index: 2;
+  display: inline-block;
+  width: 144px;
+  vertical-align: top;
+  box-shodow:none;
+}
+.rt-sidebar {
+  background-color: #fff;
+  box-shadow: none;
+}
+.rt-track-key__entry {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 43px;
+  line-height: 43px;
+  font-weight: bold;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+.rt-marker--pointer {
+  color: #888;
+  border-color: rgba(136, 136, 136, 0.5);
+  display: none;
+}
+.rt-controls {
+  display: none;
+  padding: 8px;
+  margin: 0 0 10px 0;
+  background-color: #fff;
+}

@@ -1,0 +1,291 @@
+		[	
+	    	
+	    {	
+	        "id": "CT10000",	
+	        "level": 1,	
+	        "parent": "",	
+	        "name": "Air Conditioning and Heating and Ventilation (HVAC)"	
+	    },	
+	    {	
+	        "id": "CT11000",	
+	        "level": 2,	
+	        "parent": "CT10000",	
+	        "name": "Air Conditioner"	
+	    },	
+	    {	
+	        "id": "CT11100",	
+	        "level": 3,	
+	        "parent": "CT11000",	
+	        "name": "Installation"	
+	    },	
+	    {	
+	        "id": "CT11200",	
+	        "level": 3,	
+	        "parent": "CT11000",	
+	        "name": "Servicing & maintenance"	
+	    },	
+	    {	
+	        "id": "CT11300",	
+	        "level": 3,	
+	        "parent": "CT11000",	
+	        "name": "Repair"	
+	    },	
+	    {	
+	        "id": "CT11400",	
+	        "level": 3,	
+	        "parent": "CT11000",	
+	        "name": "Air conditioning unit "	
+	    },	
+	    {	
+	        "id": "CT12000",	
+	        "level": 2,	
+	        "parent": "CT10000",	
+	        "name": "Ceiling fan"	
+	    },	
+	    {	
+	        "id": "CT12100",	
+	        "level": 3,	
+	        "parent": "CT12000",	
+	        "name": "Installation"	
+	    },	
+	    {	
+	        "id": "CT12200",	
+	        "level": 3,	
+	        "parent": "CT12000",	
+	        "name": "Servicing & maintenance"	
+	    },	
+	    {	
+	        "id": "CT12300",	
+	        "level": 3,	
+	        "parent": "CT12000",	
+	        "name": "Repair"	
+	    },	
+	    {	
+	        "id": "CT12400",	
+	        "level": 3,	
+	        "parent": "CT12000",	
+	        "name": "Ceiling fan"	
+	    },	
+	    {	
+	        "id": "CT13000",	
+	        "level": 2,	
+	        "parent": "CT10000",	
+	        "name": "Heater"	
+	    },	
+	    {	
+	        "id": "CT13100",	
+	        "level": 3,	
+	        "parent": "CT13000",	
+	        "name": "Installation"	
+	    },	
+	    {	
+	        "id": "CT13200",	
+	        "level": 3,	
+	        "parent": "CT13000",	
+	        "name": "Servicing & maintenance"	
+	    },	
+	    {	
+	        "id": "CT13300",	
+	        "level": 3,	
+	        "parent": "CT13000",	
+	        "name": "Repair"	
+	    },	
+	    {	
+	        "id": "CT13400",	
+	        "level": 3,	
+	        "parent": "CT13000",	
+	        "name": "Heater"	
+	    },	
+	    {	
+	        "id": "CT14000",	
+	        "level": 2,	
+	        "parent": "CT10000",	
+	        "name": "Casement unit"	
+	    },	
+	    {	
+	        "id": "CT14100",	
+	        "level": 3,	
+	        "parent": "CT14000",	
+	        "name": "Installation"	
+	    },	
+	    {	
+	        "id": "CT14200",	
+	        "level": 3,	
+	        "parent": "CT14000",	
+	        "name": "Servicing & maintenance"	
+	    },	
+	    {	
+	        "id": "CT14300",	
+	        "level": 3,	
+	        "parent": "CT14000",	
+	        "name": "Repair"	
+	    },	
+	    {	
+	        "id": "CT14400",	
+	        "level": 3,	
+	        "parent": "CT14000",	
+	        "name": "Casement unit"	
+	    },	
+	    {	
+	        "id": "CT15000",	
+	        "level": 2,	
+	        "parent": "CT10000",	
+	        "name": "Window unit"	
+	    },	
+	    {	
+	        "id": "CT15100",	
+	        "level": 3,	
+	        "parent": "CT15000",	
+	        "name": "Installation"	
+	    },	
+	    {	
+	        "id": "CT15200",	
+	        "level": 3,	
+	        "parent": "CT15000",	
+	        "name": "Servicing & maintenance"	
+	    },	
+	    {	
+	        "id": "CT15300",	
+	        "level": 3,	
+	        "parent": "CT15000",	
+	        "name": "Repair"	
+	    },	
+	    {	
+	        "id": "CT15400",	
+	        "level": 3,	
+	        "parent": "CT15000",	
+	        "name": "Window unit"	
+	    },	
+	    {	
+	        "id": "CT20000",	
+	        "level": 1,	
+	        "parent": "",	
+	        "name": "Carpentry Services"	
+	    },	
+	    {	
+	        "id": "CT21000",	
+	        "level": 2,	
+	        "parent": "CT20000",	
+	        "name": "Design & consultation"	
+	    },	
+	    {	
+	        "id": "CT22000",	
+	        "level": 2,	
+	        "parent": "CT20000",	
+	        "name": "Cabinets, Shelves & Wardrobes"	
+	    },	
+	    {	
+	        "id": "CT23000",	
+	        "level": 2,	
+	        "parent": "CT20000",	
+	        "name": "Feature walls"	
+	    },	
+	    {	
+	        "id": "CT24000",	
+	        "level": 2,	
+	        "parent": "CT20000",	
+	        "name": "Exhibition, Retail display"	
+	    },	
+	    {	
+	        "id": "CT25000",	
+	        "level": 2,	
+	        "parent": "CT20000",	
+	        "name": "Tables"	
+	    },	
+	    {	
+	        "id": "CT26000",	
+	        "level": 2,	
+	        "parent": "CT20000",	
+	        "name": "Consoles"	
+	    },	
+	    {	
+	        "id": "CT27000",	
+	        "level": 2,	
+	        "parent": "CT20000",	
+	        "name": "Booth seats"	
+	    },	
+	    {	
+	        "id": "CT28000",	
+	        "level": 2,	
+	        "parent": "CT20000",	
+	        "name": "Platform, Stage"	
+	    },	
+	    {	
+	        "id": "CT29000",	
+	        "level": 2,	
+	        "parent": "CT20000",	
+	        "name": "Decking"	
+	    },	
+	    {	
+	        "id": "CT210000",	
+	        "level": 2,	
+	        "parent": "CT20000",	
+	        "name": "Others"	
+	    },	
+	    {	
+	        "id": "CT30000",	
+	        "level": 1,	
+	        "parent": "",	
+	        "name": "Flooring Services"	
+	    },	
+	    {	
+	        "id": "CT31000",	
+	        "level": 2,	
+	        "parent": "CT30000",	
+	        "name": "Parquet"	
+	    },	
+	    {	
+	        "id": "CT22000",	
+	        "level": 2,	
+	        "parent": "CT30000",	
+	        "name": "Cabinets, Shelves & Wardrobes"	
+	    },	
+	    {	
+	        "id": "CT23000",	
+	        "level": 2,	
+	        "parent": "CT30000",	
+	        "name": "Feature walls"	
+	    },	
+	    {	
+	        "id": "CT24000",	
+	        "level": 2,	
+	        "parent": "CT30000",	
+	        "name": "Exhibition, Retail display"	
+	    },	
+	    {	
+	        "id": "CT25000",	
+	        "level": 2,	
+	        "parent": "CT30000",	
+	        "name": "Tables"	
+	    },	
+	    {	
+	        "id": "CT26000",	
+	        "level": 2,	
+	        "parent": "CT30000",	
+	        "name": "Consoles"	
+	    },	
+	    {	
+	        "id": "CT27000",	
+	        "level": 2,	
+	        "parent": "CT30000",	
+	        "name": "Booth seats"	
+	    },	
+	    {	
+	        "id": "CT28000",	
+	        "level": 2,	
+	        "parent": "CT30000",	
+	        "name": "Platform, Stage"	
+	    },	
+	    {	
+	        "id": "CT29000",	
+	        "level": 2,	
+	        "parent": "CT30000",	
+	        "name": "Decking"	
+	    },	
+	    {	
+	        "id": "CT210000",	
+	        "level": 2,	
+	        "parent": "CT30000",	
+	        "name": "Others"	
+        }
+    ]

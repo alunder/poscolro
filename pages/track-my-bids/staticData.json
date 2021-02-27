@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "type": "Draft",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 1",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 14, 2019",
+    "totalBids": 1,
+    "averageBidPrice": "N/A",
+    "quotedPrice": "N/A",
+    "lastSubmittedDate": null
+  },
+  {
+    "id": 2,
+    "type": "Draft",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 2",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 14, 2019",
+    "totalBids": 1,
+    "averageBidPrice": "N/A",
+    "quotedPrice": "N/A",
+    "lastSubmittedDate": null
+  },
+  {
+    "id": 3,
+    "type": "Open",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 3",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 14, 2019",
+    "totalBids": 5,
+    "averageBidPrice": "$11,023.00",
+    "quotedPrice": "$10,000.00",
+    "lastSubmittedDate": "December 15, 2019"
+  },
+  {
+    "id": 4,
+    "type": "Open",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 4",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 15, 2019",
+    "totalBids": 5,
+    "averageBidPrice": "$11,023.00",
+    "quotedPrice": "$10,000.00",
+    "lastSubmittedDate": "December 15, 2019"
+  },
+  {
+    "id": 5,
+    "type": "Open",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 5",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 15, 2019",
+    "totalBids": 5,
+    "averageBidPrice": "$11,023.00",
+    "quotedPrice": "$10,000.00",
+    "lastSubmittedDate": "December 15, 2019"
+  },
+  {
+    "id": 6,
+    "type": "Reviewing",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 6",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 16, 2019",
+    "totalBids": 9,
+    "averageBidPrice": "$10,000.00",
+    "quotedPrice": "$11,000.00",
+    "lastSubmittedDate": "December 21, 2019"
+  },
+  {
+    "id": 7,
+    "type": "Reviewing",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 7",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 16, 2019",
+    "totalBids": 9,
+    "averageBidPrice": "$10,000.00",
+    "quotedPrice": "$11,000.00",
+    "lastSubmittedDate": "December 21, 2019"
+  },
+  {
+    "id": 8,
+    "type": "Reviewing",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 8",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 16, 2019",
+    "totalBids": 9,
+    "averageBidPrice": "$10,000.00",
+    "quotedPrice": "$11,000.00",
+    "lastSubmittedDate": "December 21, 2019"
+  },
+  {
+    "id": 9,
+    "type": "Won",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 9",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 2, 2019",
+    "totalBids": 10,
+    "averageBidPrice": "$12,000.00",
+    "quotedPrice": "$12,000.00",
+    "lastSubmittedDate": "December 18, 2019"
+  },
+  {
+    "id": 10,
+    "type": "Won",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 10",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 2, 2019",
+    "totalBids": 10,
+    "averageBidPrice": "$12,000.00",
+    "quotedPrice": "$12,000.00",
+    "lastSubmittedDate": "December 18, 2019"
+  },
+  {
+    "id": 11,
+    "type": "Won",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 11",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 2, 2019",
+    "totalBids": 10,
+    "averageBidPrice": "$12,000.00",
+    "quotedPrice": "$12,000.00",
+    "lastSubmittedDate": "December 18, 2019"
+  },
+  {
+    "id": 12,
+    "type": "Archived",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 12",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 2, 2019",
+    "totalBids": 5,
+    "averageBidPrice": "$12,000.00",
+    "quotedPrice": "$12,000.00",
+    "lastSubmittedDate": "December 18, 2019",
+    "awardDate": "-",
+    "status": "No Award"
+  },
+  {
+    "id": 13,
+    "type": "Archived",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 13",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 2, 2019",
+    "totalBids": 5,
+    "averageBidPrice": "$12,000.00",
+    "quotedPrice": "$12,000.00",
+    "lastSubmittedDate": "December 18, 2019",
+    "awardDate": "December 15, 2019",
+    "status": "Bid Lost"
+  },
+  {
+    "id": 14,
+    "type": "Archived",
+    "name": "Supply entire suite of pool side furniture to replace entire existing items 14",
+    "location": "One Amber • Southeast",
+    "closingDate": "December 2, 2019",
+    "totalBids": 5,
+    "averageBidPrice": "$12,000.00",
+    "quotedPrice": "$12,000.00",
+    "lastSubmittedDate": "December 18, 2019",
+    "awardDate": "December 15, 2019",
+    "status": "Terminated",
+    "terminationDate": "December 12, 2019"
+  }
+]

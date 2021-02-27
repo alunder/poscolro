@@ -1,0 +1,9 @@
+{
+  "build": {
+    "env": {
+      "API_URL": "https://really-staging.herokuapp.com/graphql",
+      "API_ROOT": "https://really-staging.herokuapp.com/",
+      "CONSOLE_MSG": "Welcome to Really (staging)"
+    }
+  }
+}
